@@ -52,5 +52,11 @@
     "name": "Manchester United",
     "country": "Engeland",
     "stadium": "Old Trafford"
+  },
+  {
+    "id": "CL-010",
+    "name": "Juventus",
+    "country": "Italië",
+    "stadium": "Allianz Stadium"
   }
 ]

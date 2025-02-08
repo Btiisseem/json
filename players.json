@@ -6,7 +6,7 @@
       "age": 26,
       "isActive": true,
       "birthDate": "1998-11-04",
-      "imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/projectopdracht-Btiisseem/refs/heads/main/assets/images/ashraf_hakimi.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/ashraf_hakimi.jpg",
       "position": "Rechtsback",
       "skills": ["snelheid", "techniek", "passing"],
       "club": {
@@ -23,7 +23,7 @@
       "age": 25,
       "isActive": true,
       "birthDate": "1999-05-06",
-      "imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/projectopdracht-Btiisseem/refs/heads/main/assets/images/achraf-dari.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/achraf-dari.jpg",
       "position": "Linksback",
       "skills": ["snelheid", "techniek", "passing"],
       "club": {
@@ -40,7 +40,7 @@
       "age": 31,
       "isActive": true,
       "birthDate": "1993-03-19",
-      "imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/projectopdracht-Btiisseem/refs/heads/main/assets/images/Ziyech-Maroc.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/Ziyech-Maroc.jpg",
       "position": "Aanvallende middenvelder",
       "skills": ["techniek", "passing", "snelheid"],
       "club": {
@@ -57,7 +57,7 @@
       "age": 33,
       "isActive": true,
       "birthDate": "1991-04-05",
-      "imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/projectopdracht-Btiisseem/refs/heads/main/assets/images/yassine-bounou.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/yassine-bounou.jpg",
       "position": "Doelman",
       "skills": ["reflexen", "uitkomen", "snelheid"],
       "club": {
@@ -74,7 +74,7 @@
       "age": 31,
       "isActive": true,
       "birthDate": "1993-09-17",
-      "imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/projectopdracht-Btiisseem/refs/heads/main/assets/images/sofiane_boufal.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/sofiane_boufal.jpg",
       "position": "Aanvallende middenvelder",
       "skills": ["techniek", "dribbels", "snelheid"],
       "club": {
@@ -91,7 +91,7 @@
       "age": 34,
       "isActive": true,
       "birthDate": "1990-03-26",
-      "imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/projectopdracht-Btiisseem/refs/heads/main/assets/images/romain-saiss-.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/romain-saiss-.jpg",
       "position": "Centrale verdediger",
       "skills": ["kopkracht", "duelkracht", "snelheid"],
       "club": {
@@ -108,7 +108,7 @@
       "age": 27,
       "isActive": true,
       "birthDate": "1997-06-01",
-      "imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/projectopdracht-Btiisseem/refs/heads/main/assets/images/youssef-en-nesyri.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/youssef-en-nesyri.jpg",
       "position": "Spits",
       "skills": ["snelheid", "doelgerichtheid", "techniek"],
       "club": {
@@ -125,7 +125,7 @@
       "age": 24,
       "isActive": true,
       "birthDate": "2001-12-17",
-      "imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/projectopdracht-Btiisseem/refs/heads/main/assets/images/ABDESSAMAD-EZZALZOULI.png",
+      "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/ABDESSAMAD-EZZALZOULI.png",
       "position": "Centrale verdediger",
       "skills": ["kopkracht", "duelkracht", "snelheid"],
       "club": {
@@ -142,7 +142,7 @@
       "age": 27,
       "isActive": true,
       "birthDate": "1996-08-21",
-      "imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/projectopdracht-Btiisseem/refs/heads/main/assets/images/sofyane-amrabat.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/sofyane-amrabat.jpg",
       "position": "Controlerende middenvelder",
       "skills": ["duelkracht", "passing", "snelheid"],
       "club": {
@@ -159,7 +159,7 @@
       "age": 26,
       "isActive": true,
       "birthDate": "1997-11-14",
-      "imageUrl": "https://raw.githubusercontent.com/AP-G-1PRO-Webontwikkeling/projectopdracht-Btiisseem/refs/heads/main/assets/images/Noussair-Mazraoui.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/Noussair-Mazraoui.jpg",
       "position": "Rechtsback",
       "skills": ["snelheid", "techniek", "passing"],
       "club": {
