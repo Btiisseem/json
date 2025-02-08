@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CL-001",
+    "name": "Paris Saint-Germain",
+    "country": "Frankrijk",
+    "stadium": "Parc des Princes"
+  },
+  {
+    "id": "CL-002",
+    "name": "Al Ahly",
+    "country": "Egypte",
+    "stadium": "Cairo International Stadium"
+  },
+  {
+    "id": "CL-003",
+    "name": "Al-Duhail",
+    "country": "Qatar",
+    "stadium": "Abdullah bin Khalifa Stadium"
+  },
+  {
+    "id": "CL-004",
+    "name": "Al-Hilal",
+    "country": "Saoedi-Arabië",
+    "stadium": "King Fahd Stadium"
+  },
+  {
+    "id": "CL-005",
+    "name": "Union Saint-Gilloise",
+    "country": "België",
+    "stadium": "Joseph Marien Stadion"
+  },
+  {
+    "id": "CL-006",
+    "name": "Al-Sadd",
+    "country": "Qatar",
+    "stadium": "Jassim Bin Hamad Stadium"
+  },
+  {
+    "id": "CL-007",
+    "name": "Fenerbahçe SK",
+    "country": "Turkije",
+    "stadium": "Ülker Stadyumu"
+  },
+  {
+    "id": "CL-008",
+    "name": "Real Betis",
+    "country": "Spanje",
+    "stadium": "Estadio Benito Villamarín"
+  },
+  {
+    "id": "CL-009",
+    "name": "Manchester United",
+    "country": "Engeland",
+    "stadium": "Old Trafford"
+  }
+]
