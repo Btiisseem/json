@@ -13,7 +13,8 @@
         "id": "CL-001",
         "name": "Paris Saint-Germain",
         "country": "Frankrijk",
-        "stadium": "Parc des Princes"
+        "stadium": "Parc des Princes",
+        "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/Parc_des_Princes_05.jpg"
       }
     },
     {
@@ -30,7 +31,9 @@
         "id": "CL-002",
         "name": "Al Ahly",
         "country": "Egypte",
-        "stadium": "Cairo International Stadium"
+        "stadium": "Cairo International Stadium",
+        "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/Cairo%20International%20Stadium.jpg"
+
       }
     },
     {
@@ -47,7 +50,8 @@
         "id": "CL-003",
         "name": "Al-Duhail",
         "country": "Qatar",
-        "stadium": "Abdullah bin Khalifa Stadium"
+        "stadium": "Abdullah bin Khalifa Stadium",
+        "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/Abdullah%20bin%20Khalifa%20Stadium.jpg"
       }
     },
     {
@@ -64,7 +68,9 @@
         "id": "CL-004",
         "name": "Al-Hilal",
         "country": "Saoedi-Arabië",
-        "stadium": "King Fahd Stadium"
+        "stadium": "King Fahd Stadium",
+        "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/King%20Fahd%20Stadium.jpg"
+
       }
     },
     {
@@ -81,7 +87,8 @@
         "id": "CL-005",
         "name": "Union Saint-Gilloise",
         "country": "België",
-        "stadium": "Joseph Marien Stadion"
+        "stadium": "Joseph Marien Stadion",
+        "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/Joseph%20Marien%20Stadion.jpg"
       }
     },
     {
@@ -98,7 +105,8 @@
         "id": "CL-006",
         "name": "Al-Ssad",
         "country": "Qatar",
-        "stadium": "Jassim Bin Hamad Stadium"
+        "stadium": "Jassim Bin Hamad Stadium",
+        "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/Jassim%20Bin%20Hamad%20Stadium.jpg"
       }
     },
     {
@@ -115,7 +123,9 @@
         "id": "CL-007",
         "name": "Fenerbahçe SK",
         "country": "Turkije",
-        "stadium": "Ülker Stadyumu"
+        "stadium": "Ülker Stadyumu",
+        "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/%C3%9Clker%20Stadyumu.jpg"
+
       }
     },
     {
@@ -132,7 +142,8 @@
         "id": "CL-008",
         "name": "Real Betis",
         "country": "Spanje",
-        "stadium": "Estadio Benito Villamarín"
+        "stadium": "Estadio Benito Villamarín",
+        "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/Estadio%20Benito%20Villamar%C3%ADn.jpg"
       }
     },
     {
@@ -149,7 +160,8 @@
         "id": "CL-007",
         "name": "Fenerbahçe SK",
         "country": "Turkije",
-        "stadium": "Ülker Stadyumu"
+        "stadium": "Ülker Stadyumu",
+        "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/%C3%9Clker%20Stadyumu.jpg"
       }
     },
     {
@@ -166,7 +178,8 @@
         "id": "CL-009",
         "name": "Manchester United",
         "country": "Engeland",
-        "stadium": "Old Trafford"
+        "stadium": "Old Trafford",
+        "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/Old%20Trafford.jpg"
       }
     }
   ]
