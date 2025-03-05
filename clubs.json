@@ -4,6 +4,8 @@
     "name": "Paris Saint-Germain",
     "country": "Frankrijk",
     "stadium": "Parc des Princes",
+    "latitude": 48.8414,
+    "longitude": 2.2530,
     "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/Parc_des_Princes_05.jpg"
   },
   {
@@ -11,20 +13,25 @@
     "name": "Al Ahly",
     "country": "Egypte",
     "stadium": "Cairo International Stadium",
+    "latitude": 30.0694,
+    "longitude": 31.3120,
     "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/Cairo%20International%20Stadium.jpg"
-
   },
   {
     "id": "CL-003",
     "name": "Al-Duhail",
     "country": "Qatar",
-    "stadium": "Abdullah bin Khalifa Stadium"
+    "stadium": "Abdullah bin Khalifa Stadium",
+    "latitude": 25.2828,
+    "longitude": 51.5321
   },
   {
     "id": "CL-004",
     "name": "Al-Hilal",
     "country": "Saoedi-Arabië",
     "stadium": "King Fahd Stadium",
+    "latitude": 24.7515,
+    "longitude": 46.6291,
     "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/King%20Fahd%20Stadium.jpg"
   },
   {
@@ -32,6 +39,8 @@
     "name": "Union Saint-Gilloise",
     "country": "België",
     "stadium": "Joseph Marien Stadion",
+    "latitude": 50.8169,
+    "longitude": 4.3336,
     "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/Joseph%20Marien%20Stadion.jpg"
   },
   {
@@ -39,6 +48,8 @@
     "name": "Al-Sadd",
     "country": "Qatar",
     "stadium": "Jassim Bin Hamad Stadium",
+    "latitude": 25.3126,
+    "longitude": 51.4619,
     "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/Jassim%20Bin%20Hamad%20Stadium.jpg"
   },
   {
@@ -46,6 +57,8 @@
     "name": "Fenerbahçe SK",
     "country": "Turkije",
     "stadium": "Ülker Stadyumu",
+    "latitude": 40.9903,
+    "longitude": 29.0322,
     "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/%C3%9Clker%20Stadyumu.jpg"
   },
   {
@@ -53,6 +66,8 @@
     "name": "Real Betis",
     "country": "Spanje",
     "stadium": "Estadio Benito Villamarín",
+    "latitude": 37.3564,
+    "longitude": -5.9811,
     "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/Estadio%20Benito%20Villamar%C3%ADn.jpg"
   },
   {
@@ -60,6 +75,8 @@
     "name": "Manchester United",
     "country": "Engeland",
     "stadium": "Old Trafford",
+    "latitude": 53.4631,
+    "longitude": -2.2913,
     "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/Old%20Trafford.jpg"
   },
   {
@@ -67,7 +84,8 @@
     "name": "Juventus",
     "country": "Italië",
     "stadium": "Allianz Stadium",
+    "latitude": 45.1096,
+    "longitude": 7.6413,
     "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/Allianz%20Stadium.jpg"
-
   }
 ]
