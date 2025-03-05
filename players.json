@@ -1,186 +1,203 @@
 [
-    {
-      "id": "PL-001",
-      "name": "Ashraf Hakimi",
-      "description": "Snelle en aanvallende rechtsback die bekend staat om zijn snelheid en techniek.",
-      "age": 26,
-      "isActive": true,
-      "birthDate": "1998-11-04",
-      "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/ashraf_hakimi.jpg",
-      "position": "Rechtsback",
-      "skills": ["snelheid", "techniek", "passing"],
-      "club": {
-        "id": "CL-001",
-        "name": "Paris Saint-Germain",
-        "country": "Frankrijk",
-        "stadium": "Parc des Princes",
-        "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/Parc_des_Princes_05.jpg"
-      }
-    },
-    {
-      "id": "PL-002",
-      "name": "Achraf Dari",
-      "description": "Aanvallende linksback die bekend staat om zijn snelheid en techniek.",
-      "age": 25,
-      "isActive": true,
-      "birthDate": "1999-05-06",
-      "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/achraf-dari.jpg",
-      "position": "Linksback",
-      "skills": ["snelheid", "techniek", "passing"],
-      "club": {
-        "id": "CL-002",
-        "name": "Al Ahly",
-        "country": "Egypte",
-        "stadium": "Cairo International Stadium",
-        "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/Cairo%20International%20Stadium.jpg"
-
-      }
-    },
-    {
-      "id": "PL-003",
-      "name": "Hakim Ziyech",
-      "description": "Aanvallende middenvelder die bekend staat om zijn techniek en passing.",
-      "age": 31,
-      "isActive": true,
-      "birthDate": "1993-03-19",
-      "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/Ziyech-Maroc.jpg",
-      "position": "Aanvallende middenvelder",
-      "skills": ["techniek", "passing", "snelheid"],
-      "club": {
-        "id": "CL-003",
-        "name": "Al-Duhail",
-        "country": "Qatar",
-        "stadium": "Abdullah bin Khalifa Stadium",
-        "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/Abdullah%20bin%20Khalifa%20Stadium.jpg"
-      }
-    },
-    {
-      "id": "PL-004",
-      "name": "Yassin Bonou",
-      "description": "Betrouwbare doelman die bekend staat om zijn reflexen en uitkomen.",
-      "age": 33,
-      "isActive": true,
-      "birthDate": "1991-04-05",
-      "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/yassine-bounou.jpg",
-      "position": "Doelman",
-      "skills": ["reflexen", "uitkomen", "snelheid"],
-      "club": {
-        "id": "CL-004",
-        "name": "Al-Hilal",
-        "country": "Saoedi-Arabië",
-        "stadium": "King Fahd Stadium",
-        "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/King%20Fahd%20Stadium.jpg"
-
-      }
-    },
-    {
-      "id": "PL-005",
-      "name": "Sofiane Boufal",
-      "description": "Aanvallende middenvelder die bekend staat om zijn techniek en dribbels.",
-      "age": 31,
-      "isActive": true,
-      "birthDate": "1993-09-17",
-      "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/sofiane_boufal.jpg",
-      "position": "Aanvallende middenvelder",
-      "skills": ["techniek", "dribbels", "snelheid"],
-      "club": {
-        "id": "CL-005",
-        "name": "Union Saint-Gilloise",
-        "country": "België",
-        "stadium": "Joseph Marien Stadion",
-        "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/Joseph%20Marien%20Stadion.jpg"
-      }
-    },
-    {
-      "id": "PL-006",
-      "name": "Roumain Saiss",
-      "description": "Centrale verdediger die bekend staat om zijn kopkracht en duelkracht.",
-      "age": 34,
-      "isActive": true,
-      "birthDate": "1990-03-26",
-      "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/romain-saiss-.jpg",
-      "position": "Centrale verdediger",
-      "skills": ["kopkracht", "duelkracht", "snelheid"],
-      "club": {
-        "id": "CL-006",
-        "name": "Al-Ssad",
-        "country": "Qatar",
-        "stadium": "Jassim Bin Hamad Stadium",
-        "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/Jassim%20Bin%20Hamad%20Stadium.jpg"
-      }
-    },
-    {
-      "id": "PL-007",
-      "name": "Youssef En-Nesyri",
-      "description": "Spits die bekend staat om zijn snelheid en doelgerichtheid.",
-      "age": 27,
-      "isActive": true,
-      "birthDate": "1997-06-01",
-      "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/youssef-en-nesyri.jpg",
-      "position": "Spits",
-      "skills": ["snelheid", "doelgerichtheid", "techniek"],
-      "club": {
-        "id": "CL-007",
-        "name": "Fenerbahçe SK",
-        "country": "Turkije",
-        "stadium": "Ülker Stadyumu",
-        "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/%C3%9Clker%20Stadyumu.jpg"
-
-      }
-    },
-    {
-      "id": "PL-008",
-      "name": "Ez Abde",
-      "description": "Centrale verdediger die bekend staat om zijn kopkracht en duelkracht.",
-      "age": 24,
-      "isActive": true,
-      "birthDate": "2001-12-17",
-      "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/ABDESSAMAD-EZZALZOULI.png",
-      "position": "Centrale verdediger",
-      "skills": ["kopkracht", "duelkracht", "snelheid"],
-      "club": {
-        "id": "CL-008",
-        "name": "Real Betis",
-        "country": "Spanje",
-        "stadium": "Estadio Benito Villamarín",
-        "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/Estadio%20Benito%20Villamar%C3%ADn.jpg"
-      }
-    },
-    {
-      "id": "PL-009",
-      "name": "Sofyan Amrabat",
-      "description": "Controlerende middenvelder die bekend staat om zijn duelkracht en passing.",
-      "age": 27,
-      "isActive": true,
-      "birthDate": "1996-08-21",
-      "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/sofyane-amrabat.jpg",
-      "position": "Controlerende middenvelder",
-      "skills": ["duelkracht", "passing", "snelheid"],
-      "club": {
-        "id": "CL-007",
-        "name": "Fenerbahçe SK",
-        "country": "Turkije",
-        "stadium": "Ülker Stadyumu",
-        "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/%C3%9Clker%20Stadyumu.jpg"
-      }
-    },
-    {
-      "id": "PL-010",
-      "name": "Noussair Mazraoui",
-      "description": "Aanvallende rechtsback die bekend staat om zijn snelheid en techniek.",
-      "age": 26,
-      "isActive": true,
-      "birthDate": "1997-11-14",
-      "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/Noussair-Mazraoui.jpg",
-      "position": "Rechtsback",
-      "skills": ["snelheid", "techniek", "passing"],
-      "club": {
-        "id": "CL-009",
-        "name": "Manchester United",
-        "country": "Engeland",
-        "stadium": "Old Trafford",
-        "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/Old%20Trafford.jpg"
-      }
+  {
+    "id": "PL-001",
+    "name": "Ashraf Hakimi",
+    "description": "Snelle en aanvallende rechtsback die bekend staat om zijn snelheid en techniek.",
+    "age": 26,
+    "isActive": true,
+    "birthDate": "1998-11-04",
+    "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/ashraf_hakimi.jpg",
+    "position": "Rechtsback",
+    "skills": ["snelheid", "techniek", "passing"],
+    "club": {
+      "id": "CL-001",
+      "name": "Paris Saint-Germain",
+      "country": "Frankrijk",
+      "stadium": "Parc des Princes",
+    "latitude": 48.8414,
+      "longitude": 2.2530,
+      "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/Parc_des_Princes_05.jpg"
     }
-  ]
-  
+  },
+  {
+    "id": "PL-002",
+    "name": "Achraf Dari",
+    "description": "Aanvallende linksback die bekend staat om zijn snelheid en techniek.",
+    "age": 25,
+    "isActive": true,
+    "birthDate": "1999-05-06",
+    "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/achraf-dari.jpg",
+    "position": "Linksback",
+    "skills": ["snelheid", "techniek", "passing"],
+    "club": {
+      "id": "CL-002",
+      "name": "Al Ahly",
+      "country": "Egypte",
+      "stadium": "Cairo International Stadium",
+     "latitude": 30.0694,
+      "longitude": 31.3120,
+      "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/Cairo%20International%20Stadium.jpg"
+
+    }
+  },
+  {
+    "id": "PL-003",
+    "name": "Hakim Ziyech",
+    "description": "Aanvallende middenvelder die bekend staat om zijn techniek en passing.",
+    "age": 31,
+    "isActive": true,
+    "birthDate": "1993-03-19",
+    "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/Ziyech-Maroc.jpg",
+    "position": "Aanvallende middenvelder",
+    "skills": ["techniek", "passing", "snelheid"],
+    "club": {
+      "id": "CL-003",
+      "name": "Al-Duhail",
+      "country": "Qatar",
+      "stadium": "Abdullah bin Khalifa Stadium",
+      "latitude": 25.2828,
+      "longitude": 51.5321,
+      "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/Abdullah%20bin%20Khalifa%20Stadium.jpg"
+    }
+  },
+  {
+    "id": "PL-004",
+    "name": "Yassin Bonou",
+    "description": "Betrouwbare doelman die bekend staat om zijn reflexen en uitkomen.",
+    "age": 33,
+    "isActive": true,
+    "birthDate": "1991-04-05",
+    "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/yassine-bounou.jpg",
+    "position": "Doelman",
+    "skills": ["reflexen", "uitkomen", "snelheid"],
+    "club": {
+      "id": "CL-004",
+      "name": "Al-Hilal",
+      "country": "Saoedi-Arabië",
+      "stadium": "King Fahd Stadium",
+      "latitude": 24.7515,
+      "longitude": 46.6291,
+      "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/King%20Fahd%20Stadium.jpg"
+    }
+  },
+  {
+    "id": "PL-005",
+    "name": "Sofiane Boufal",
+    "description": "Aanvallende middenvelder die bekend staat om zijn techniek en dribbels.",
+    "age": 31,
+    "isActive": true,
+    "birthDate": "1993-09-17",
+    "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/sofiane_boufal.jpg",
+    "position": "Aanvallende middenvelder",
+    "skills": ["techniek", "dribbels", "snelheid"],
+    "club": {
+      "id": "CL-005",
+      "name": "Union Saint-Gilloise",
+      "country": "België",
+      "stadium": "Joseph Marien Stadion",
+      "latitude": 50.8167,
+      "longitude": 4.3456,
+      "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/Joseph%20Marien%20Stadion.jpg"
+    }
+  },
+  {
+    "id": "PL-006",
+    "name": "Romain Saiss",
+    "description": "Centrale verdediger die bekend staat om zijn kopkracht en duelkracht.",
+    "age": 34,
+    "isActive": true,
+    "birthDate": "1990-03-26",
+    "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/romain-saiss-.jpg",
+    "position": "Centrale verdediger",
+    "skills": ["kopkracht", "duelkracht", "snelheid"],
+    "club": {
+      "id": "CL-006",
+      "name": "Al-Sadd",
+      "country": "Qatar",
+      "stadium": "Jassim Bin Hamad Stadium",
+      "latitude": 25.2866,
+      "longitude": 51.4936,
+      "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/Jassim%20Bin%20Hamad%20Stadium.jpg"
+    }
+  },
+  {
+    "id": "PL-007",
+    "name": "Youssef En-Nesyri",
+    "description": "Spits die bekend staat om zijn snelheid en doelgerichtheid.",
+    "age": 27,
+    "isActive": true,
+    "birthDate": "1997-06-01",
+    "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/youssef-en-nesyri.jpg",
+    "position": "Spits",
+    "skills": ["snelheid", "doelgerichtheid", "techniek"],
+    "club": {
+      "id": "CL-007",
+      "name": "Fenerbahçe SK",
+      "country": "Turkije",
+      "stadium": "Ülker Stadyumu",
+      "latitude": 40.9905,
+      "longitude": 29.0328,
+      "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/%C3%9Clker%20Stadyumu.jpg"
+    }
+  },
+  {
+    "id": "PL-008",
+    "name": "Ez Abde",
+    "description": "Centrale verdediger die bekend staat om zijn kopkracht en duelkracht.",
+    "age": 24,
+    "isActive": true,
+    "birthDate": "2001-12-17",
+    "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/ABDESSAMAD-EZZALZOULI.png",
+    "position": "Centrale verdediger",
+    "skills": ["kopkracht", "duelkracht", "snelheid"],
+    "club": {
+      "id": "CL-008",
+      "name": "Real Betis",
+      "country": "Spanje",
+      "stadium": "Estadio Benito Villamarín",
+        "latitude": 37.3776,
+      "longitude": -5.9851,
+      "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/Estadio%20Benito%20Villamar%C3%ADn.jpg"
+    }
+  },
+  {
+    "id": "PL-009",
+    "name": "Sofyan Amrabat",
+    "description": "Controlerende middenvelder die bekend staat om zijn duelkracht en passing.",
+    "age": 27,
+    "isActive": true,
+    "birthDate": "1996-08-21",
+    "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/sofyane-amrabat.jpg",
+    "position": "Controlerende middenvelder",
+    "skills": ["duelkracht", "passing", "snelheid"],
+    "club": {
+      "id": "CL-007",
+      "name": "Fiorentina",
+      "country": "Italië",
+      "stadium": "Stadio Artemio Franchi",
+      "latitude": 43.7736,
+      "longitude": 11.2479,
+      "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/Stadio%20Artemio%20Franchi.jpg"
+    }
+  },
+  {
+    "id": "PL-010",
+    "name": "Noussair Mazraoui",
+    "description": "Rechtsback met veel technische kwaliteiten en een sterke voorzet.",
+    "age": 26,
+    "isActive": true,
+    "birthDate": "1997-11-14",
+    "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/noussair-mazraoui.jpg",
+    "position": "Rechtsback",
+    "skills": ["techniek", "voorzet", "snelheid"],
+    "club": {
+      "id": "CL-010",
+      "name": "Bayern München",
+      "country": "Duitsland",
+      "stadium": "Allianz Arena",
+         "latitude": 48.2188,
+      "longitude": 11.6248,
+      "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/Allianz%20Arena.jpg"
+    }
+  }
+]
