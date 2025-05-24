@@ -187,7 +187,7 @@
     "age": 26,
     "isActive": true,
     "birthDate": "1997-11-14",
-    "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/noussair-mazraoui.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/Noussair-Mazraoui.jpg",
     "position": "Rechtsback",
     "skills": ["techniek", "voorzet", "snelheid"],
     "club": {
@@ -197,7 +197,7 @@
       "stadium": "Allianz Arena",
          "latitude": 48.2188,
       "longitude": 11.6248,
-      "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/noussair-mazraoui.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/Btiisseem/json/refs/heads/main/assets/images/Noussair-Mazraoui.jpg"
     }
   }
 ]
